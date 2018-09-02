@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TodoAPIDemo.Core
+namespace TodoAPIDemo.Infrastructure
 {
     public class Class1
     {
